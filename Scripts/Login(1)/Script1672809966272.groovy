@@ -43,13 +43,3 @@ WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
 //WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
 
 //WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
-
-//WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
-
-//WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
-
-//WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
-
-//WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
-
-//WebUI.submit(findTestObject('Leads Page/Page_Shortlyst Login/button_Continue'))
