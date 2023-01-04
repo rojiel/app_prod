@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_6,461,003 Leads</name>
+   <tag></tag>
+   <elementGuidId>08dc4333-1cf6-4912-bd72-c5fb5cb86654</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.py-s.nav-link.show-pointer.w-100.h-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-2JqOaAEMcOZriKWRO0DyICCihzy']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6fcd1104-86e5-4d82-ada3-482d72f50ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-s nav-link show-pointer w-100 h-100</value>
+      <webElementGuid>b4158625-9f55-4873-a20c-f0f7cbb502df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6,461,003 Leads</value>
+      <webElementGuid>8bc5c303-ecfc-409c-9f06-6f4753c61e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-2JqOaAEMcOZriKWRO0DyICCihzy&quot;)/div[@class=&quot;application-count d-flex justify-content-between w-100&quot;]/div[@class=&quot;d-flex nav-item w-100&quot;]/div[@class=&quot;py-s nav-link show-pointer w-100 h-100&quot;]</value>
+      <webElementGuid>6baa05c5-33b1-4c2f-a1c4-da48a05e758e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-2JqOaAEMcOZriKWRO0DyICCihzy']/div/div/div</value>
+      <webElementGuid>c3b75ffa-b64a-453a-bed3-c0e25dfa6f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by Andhika Gunawan'])[1]/following::div[9]</value>
+      <webElementGuid>32f7daca-d243-48bd-a028-e1de86dc508e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/following::div[14]</value>
+      <webElementGuid>e3ad4f30-cc34-4982-8a0f-9882cb6746a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shortlysted'])[1]/preceding::div[2]</value>
+      <webElementGuid>2d4f503b-2b10-4e30-9d8e-c9a221d8b5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>df1e3664-bc32-4794-b1a9-e42bc83fe85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '6,461,003 Leads' or . = '6,461,003 Leads')]</value>
+      <webElementGuid>c31039d6-cbc3-4f6a-b997-3a202c1c7fab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
