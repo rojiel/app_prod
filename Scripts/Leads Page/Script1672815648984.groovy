@@ -24,9 +24,7 @@ WebUI.verifyElementClickable(findTestObject('Leads Page/Page_Shortlyst_Project/a
 WebUI.click(findTestObject('Leads Page/Page_Shortlyst_Project/a_Projects'))
 
 WebUI.click(findTestObject('Leads Page/Page_Shortlyst_Project/button_Create New Project'))
-
-WebUI.delay(1)
-
+//WebUI.delay(1)
 WebUI.click(findTestObject('Leads Page/Page_Shortlyst_Project/input__project_name'))
 
 WebUI.setText(findTestObject('Leads Page/Page_Shortlyst_Project/input__project_name'), 'Testing Project')
